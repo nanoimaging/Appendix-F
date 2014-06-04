@@ -1,5 +1,0 @@
-Install TinyCad
-
-Add the libary file into the libary folder in the installation folder
-
-play :)
